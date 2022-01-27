@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\Documents\GitHub\CS-201R\HelloWorld\main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HelloWorld.vcxproj -> C:\Users\User\OneDrive\Documents\GitHub\CS-201R\HelloWorld\Debug\HelloWorld.exe
